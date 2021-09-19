@@ -1,4 +1,4 @@
-package br.com.microservice.stockprice.dto;
+package dto;
 
 import java.io.Serializable;
 

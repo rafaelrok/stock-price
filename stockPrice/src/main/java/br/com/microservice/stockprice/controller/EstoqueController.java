@@ -1,7 +1,7 @@
 package br.com.microservice.stockprice.controller;
 
-import br.com.microservice.stockprice.constantes.RabbitMQConstantes;
-import br.com.microservice.stockprice.dto.EstoqueDTO;
+import dto.EstoqueDTO;
+import constantes.RabbitMQConstantes;
 import br.com.microservice.stockprice.service.RabbitmqService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

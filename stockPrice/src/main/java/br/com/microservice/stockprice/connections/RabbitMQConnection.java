@@ -1,6 +1,6 @@
 package br.com.microservice.stockprice.connections;
 
-import br.com.microservice.stockprice.constantes.RabbitMQConstantes;
+import constantes.RabbitMQConstantes;
 import org.springframework.amqp.core.AmqpAdmin;
 import org.springframework.amqp.core.Binding;
 import org.springframework.amqp.core.DirectExchange;
